@@ -1,0 +1,42 @@
+body{
+    margin: 0 10%;
+    background-image: url("https://thumbs.dreamstime.com/b/white-wood-wall-texture-background-panels-graphic-resources-149622903.jpg");
+}
+.mainHeader{
+    border: 5px solid azure;
+    margin-top: 15px;
+    background-color: #A8F0F0;
+    text-align: right;
+}
+.header2{
+    font-size: 14pt;
+}
+.infoBox{
+    border: 4px #C2E9E9 solid;
+    background-color: #e8fbfb;
+    padding: 5px;
+    margin-top: 10px;
+    overflow: auto;
+}
+span{
+    border-bottom: 2px dashed blue;
+}
+img{
+    float: right;
+}
+.left-float{
+    background-color: #A8F0F0;
+    border: 3px cadetblue solid;
+    margin-top: 9px;
+    padding-left: 5px;
+    float: left;
+    width: 18%;
+}
+.contents{
+    float: right;
+    width: 80%;
+    clear: bottom;
+}
+.page{
+    background-color: #e8fbfb;
+}
